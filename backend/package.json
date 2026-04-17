@@ -1,0 +1,1 @@
+{"name": "backend", "version": "1.0.0", "description": "Backend for Coconut Coffee Survey", "main": "index.js", "scripts": {"start": "node index.js"}, "dependencies": {"express": "^4.17.1", "mongodb": "^3.6.4", "mongoose": "^5.10.9", "dotenv": "^8.2.0"}, "author": "ElsieChen0623", "license": "ISC"}
